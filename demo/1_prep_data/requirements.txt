@@ -1,0 +1,21 @@
+# batch
+opencv-python==4.11.0.86
+numpy==1.26.4
+xgboost==2.1.4
+hyperopt==0.2.7
+matplotlib==3.10.0
+imutils==0.5.4
+
+# train
+torch==2.6.0
+scikit-learn==1.6.1
+pandas==2.2.3
+av==14.2.0
+nltk==3.9.1
+transformers==4.54.1
+
+# other?
+tqdm==4.67.1
+
+# sound
+librosa==0.10.2.post1
