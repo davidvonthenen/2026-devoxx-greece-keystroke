@@ -1,6 +1,6 @@
-# Devoxx France 2026: The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend
+# Devoxx Greece 2026: The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend
 
-Welcome to the landing page for the session `The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend` at the `Devoxx France 2026`.
+Welcome to the landing page for the session `The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend` at `Devoxx Greece 2026`.
 
 ## What to Expect
 
