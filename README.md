@@ -29,10 +29,10 @@ If you don't have access to this kind of hardware, you can at least download the
 
 There are 4 projects to make this happen. Step 2 and 3 are dependent on Step 1.
 
-- [demo/1_prep_data](./demos/1_prep_data/README.md)
-- [demo/2_train_noiseless](./demos/2_train_noiseless/README.md)
-- [demo/3_train_mka-dependent](./demos/3_train_mka-dependent/README.md)
-- [demo/4_corrector](./demos/4_corrector/README.md)
+- [demo/1_prep_data](./demo/1_prep_data/README.md)
+- [demo/2_train_noiseless](./demo/2_train_noiseless/README.md)
+- [demo/3_train_mka-dependent](./demo/3_train_mka-dependent/README.md)
+- [demo/4_corrector](./demo/4_corrector/README.md)
 - [demo 5: Masked Language Model](https://github.com/davidvonthenen/2026-scale-23x-slm/tree/main/demo/3_MLM)
 
 The instructions and purpose for each demo is contained within their respective folders.
