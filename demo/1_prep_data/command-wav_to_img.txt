@@ -1,0 +1,1 @@
+python wav_to_img.py --output images --target-mels 64 --target-frames 64 --hop-length 255 --scale 1
